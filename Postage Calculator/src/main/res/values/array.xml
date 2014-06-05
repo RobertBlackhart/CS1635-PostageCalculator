@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array
+		name="package_type_array">
+		<item>Letter</item>
+		<item>Large Envelope</item>
+		<item>Package</item>
+	</string-array>
+</resources>
